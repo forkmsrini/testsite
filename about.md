@@ -12,6 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[mail AT msrini DOT com](mailto:mail@msrini.com)
+Personal: [mail AT msrini DOT com](mailto:mail@msrini.com)
 
 Work: [mukundhan AT mile DOT ee DOT iisc DOT ernet DOT in](mailto:mail@msrini.com)
